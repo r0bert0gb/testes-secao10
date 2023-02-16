@@ -3,3 +3,5 @@ Essa linha foi trocada na branch "branch-criada-localmente"
 Esse arquivo foi alterado localmente
 
 Esta linha foi adicionada na branch "branch-criada-localmente"
+
+Outra modificação na branch "branch-criada-localmente"
