@@ -1,1 +1,3 @@
 Just another file created in the br1 branch
+
+Esse arquivo foi alterado localmente
